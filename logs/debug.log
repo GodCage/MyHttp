@@ -1,0 +1,262 @@
+Thread( main) - [INFO ][2018/05/24 16:18:0541 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:18:0545 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:18:0546 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:18:0547 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:18:0551 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:18:08698][ MyLocalHttp.LocalSocket.main(LocalSocket.java:50)]
+本地端口：10088
+ Thread( main) - [INFO ][2018/05/24 16:18:08701][ MyLocalHttp.LocalSocket.main(LocalSocket.java:51)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:18:08702][ MyLocalHttp.LocalSocket.main(LocalSocket.java:52)]
+代理端口：10089
+ Thread( main) - [DEBUG][2018/05/24 16:18:08706][ MyLocalHttp.LocalSocket.main(LocalSocket.java:54)]
+本地端口开启成功!
+ Thread(Thread-0) - [INFO ][2018/05/24 16:20:13477][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第1次链接
+ Thread(Thread-4) - [INFO ][2018/05/24 16:20:13484][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第6次链接
+ Thread(Thread-5) - [INFO ][2018/05/24 16:20:13482][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第5次链接
+ Thread(Thread-2) - [INFO ][2018/05/24 16:20:13481][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第4次链接
+ Thread(Thread-1) - [INFO ][2018/05/24 16:20:13481][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第3次链接
+ Thread(Thread-3) - [INFO ][2018/05/24 16:20:13481][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第2次链接
+ Thread(Thread-6) - [INFO ][2018/05/24 16:23:00204][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第7次链接
+ Thread(Thread-9) - [INFO ][2018/05/24 16:23:00205][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第8次链接
+ Thread(Thread-10) - [INFO ][2018/05/24 16:23:00206][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第9次链接
+ Thread(Thread-11) - [INFO ][2018/05/24 16:23:00209][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第12次链接
+ Thread(Thread-8) - [INFO ][2018/05/24 16:23:00209][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第11次链接
+ Thread(Thread-7) - [INFO ][2018/05/24 16:23:00209][ MyServerHttp.MyServerSocket.connect(MyServerSocket.java:77)]
+第10次链接
+ Thread( main) - [INFO ][2018/05/24 16:23:1735 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:23:1740 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:23:1741 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:23:1742 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:23:1748 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:26:5736 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:50)]
+本地端口：10088
+ Thread( main) - [INFO ][2018/05/24 16:26:5740 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:51)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:26:5741 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:52)]
+代理端口：10089
+ Thread( main) - [DEBUG][2018/05/24 16:26:5745 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:54)]
+本地端口开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:29:43236][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:29:43242][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:29:43242][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:29:43243][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:29:43250][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ [INFO][2018-05-24 16:30:24,097][MyServerHttp.MyServerSocket]代理端口：10089
+[INFO][2018-05-24 16:30:24,102][MyServerHttp.MyServerSocket]代理地址：localhost
+[INFO][2018-05-24 16:30:24,103][MyServerHttp.MyServerSocket]外网ip：192.168.10.86
+[INFO][2018-05-24 16:30:24,104][MyServerHttp.MyServerSocket]外网端口：80
+[DEBUG][2018-05-24 16:30:24,108][MyServerHttp.MyServerSocket]代理服务器开启成功!
+2018-05-24 16:32:28  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-24 16:32:28  [ main:4 ] - [ INFO ]  代理地址：localhost
+2018-05-24 16:32:28  [ main:5 ] - [ INFO ]  外网ip：192.168.10.86
+2018-05-24 16:32:28  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-24 16:32:28  [ main:10 ] - [ DEBUG ]  代理服务器开启成功!
+2018-05-24 16:33:06  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-24 16:33:06  [ main:2 ] - [ INFO ]  代理地址：localhost
+2018-05-24 16:33:06  [ main:2 ] - [ INFO ]  外网ip：192.168.10.86
+2018-05-24 16:33:06  [ main:3 ] - [ INFO ]  外网端口：80
+2018-05-24 16:33:06  [ main:7 ] - [ DEBUG ]  代理服务器开启成功!
+2018-05-24 16:33:50  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-24 16:33:50  [ main:4 ] - [ INFO ]  代理地址：localhost
+2018-05-24 16:33:50  [ main:5 ] - [ INFO ]  外网ip：192.168.10.86
+2018-05-24 16:33:50  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-24 16:33:50  [ main:10 ] - [ DEBUG ]  代理服务器开启成功!
+Thread( main) - [INFO ][2018/05/24 16:36:20425][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:36:20430][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:36:20431][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:36:20432][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:36:20436][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:37:32634][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:37:32638][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:37:32639][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:37:32640][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:37:32644][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:37:56154][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:37:56158][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:37:56159][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:37:56160][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:37:56164][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:38:34185][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:38:34190][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:38:34190][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:38:34191][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:38:34195][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:39:0662 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:39:0667 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:39:0668 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:39:0669 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:39:0673 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:39:54629][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:39:54633][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:39:54635][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:39:54636][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:39:54641][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:40:26776][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:40:26781][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:40:26782][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:40:26783][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:40:26787][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:40:52216][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:40:52221][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:40:52222][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:40:52222][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:40:52227][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:41:12663][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:41:12667][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:41:12668][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:41:12669][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:41:12673][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:41:30361][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:41:30365][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:41:30366][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:41:30366][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:41:30370][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:42:2894 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:42:2898 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:42:2899 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:42:28100][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:42:28104][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:43:47111][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)]
+代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:43:47116][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)]
+代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:43:47117][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)]
+外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:43:47118][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)]
+外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:43:47122][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)]
+代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:45:16924][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:45:16929][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:45:16932][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)] 外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:45:16936][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)] 外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:45:16940][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)] 代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:49:16587][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:49:16592][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:49:16593][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)] 外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:49:16595][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)] 外网端口：80
+ Thread( main) - [DEBUG][2018/05/24 16:49:16600][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)] 代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:51:32856][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:51:32861][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:51:32862][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)] 外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:51:32864][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)] 外网端口：80
+ Thread( main) - [INFO ][2018/05/24 16:51:32869][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)] 代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:57:0059 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:50)] 本地端口：10088
+ Thread( main) - [INFO ][2018/05/24 16:57:0065 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:51)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:57:0066 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:52)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:57:0071 ][ MyLocalHttp.LocalSocket.main(LocalSocket.java:54)] 本地端口开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:57:59325][ MyLocalHttp.LocalSocket.main(LocalSocket.java:50)] 本地端口：10088
+ Thread( main) - [INFO ][2018/05/24 16:57:59330][ MyLocalHttp.LocalSocket.main(LocalSocket.java:51)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:57:59332][ MyLocalHttp.LocalSocket.main(LocalSocket.java:52)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:57:59337][ MyLocalHttp.LocalSocket.main(LocalSocket.java:54)] 本地端口开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:58:20825][ MyLocalHttp.LocalSocket.main(LocalSocket.java:50)] 本地端口：10088
+ Thread( main) - [INFO ][2018/05/24 16:58:20830][ MyLocalHttp.LocalSocket.main(LocalSocket.java:51)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:58:20832][ MyLocalHttp.LocalSocket.main(LocalSocket.java:52)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:58:20837][ MyLocalHttp.LocalSocket.main(LocalSocket.java:54)] 本地端口开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:59:09393][ MyLocalHttp.LocalSocket.main(LocalSocket.java:50)] 本地端口：10088
+ Thread( main) - [INFO ][2018/05/24 16:59:09398][ MyLocalHttp.LocalSocket.main(LocalSocket.java:51)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:59:09400][ MyLocalHttp.LocalSocket.main(LocalSocket.java:52)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:59:09405][ MyLocalHttp.LocalSocket.main(LocalSocket.java:54)] 本地端口开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:59:2442 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:59:2448 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:59:2449 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)] 外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:59:2451 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)] 外网端口：80
+ Thread( main) - [INFO ][2018/05/24 16:59:2455 ][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)] 代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 16:59:43930][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:59:43937][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:59:43939][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)] 外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:59:43940][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)] 外网端口：80
+ Thread( main) - [ERROR][2018/05/24 16:59:43946][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:63)] 代理服务器开启失败!
+ Thread( main) - [ERROR][2018/05/24 16:59:43950][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:64)] 失败原因：Address already in use: JVM_Bind
+ Thread( main) - [INFO ][2018/05/24 16:59:55296][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:48)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 16:59:55301][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:49)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 16:59:55302][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:50)] 外网ip：192.168.10.86
+ Thread( main) - [INFO ][2018/05/24 16:59:55304][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:51)] 外网端口：80
+ Thread( main) - [INFO ][2018/05/24 16:59:55309][ MyServerHttp.MyServerSocket.main(MyServerSocket.java:54)] 代理服务器开启成功!
+ Thread( main) - [INFO ][2018/05/24 17:00:03251][ MyLocalHttp.LocalSocket.main(LocalSocket.java:50)] 本地端口：10088
+ Thread( main) - [INFO ][2018/05/24 17:00:03257][ MyLocalHttp.LocalSocket.main(LocalSocket.java:51)] 代理地址：localhost
+ Thread( main) - [INFO ][2018/05/24 17:00:03258][ MyLocalHttp.LocalSocket.main(LocalSocket.java:52)] 代理端口：10089
+ Thread( main) - [INFO ][2018/05/24 17:00:03263][ MyLocalHttp.LocalSocket.main(LocalSocket.java:54)] 本地端口开启成功!
+ 
