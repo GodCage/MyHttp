@@ -1,0 +1,1015 @@
+2018-05-21 16:09:20  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:09:20  [ main:4 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:09:20  [ main:5 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 16:09:20  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:09:20  [ main:10 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:09:24  [ Thread-0:3788 ] - [ INFO ]  第1次链接
+2018-05-21 16:09:24  [ Thread-0:3832 ] - [ INFO ]  请求资源地址GET /Hospital/user/login.action?name=qq&psw=123&juese=1 HTTP/1.1
+2018-05-21 16:09:34  [ Thread-1:13762 ] - [ INFO ]  第2次链接
+2018-05-21 16:09:34  [ Thread-3:13765 ] - [ INFO ]  第4次链接
+2018-05-21 16:09:34  [ Thread-2:13763 ] - [ INFO ]  第3次链接
+2018-05-21 16:09:34  [ Thread-5:13770 ] - [ INFO ]  第6次链接
+2018-05-21 16:09:34  [ Thread-4:13768 ] - [ INFO ]  第5次链接
+2018-05-21 16:09:34  [ Thread-6:13772 ] - [ INFO ]  第7次链接
+2018-05-21 16:09:34  [ Thread-1:13797 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:09:39  [ Thread-5:18447 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:09:39  [ Thread-6:18448 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:09:39  [ Thread-4:18448 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:09:39  [ Thread-3:18448 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:09:39  [ Thread-2:18448 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:09:55  [ Thread-7:34518 ] - [ INFO ]  第8次链接
+2018-05-21 16:09:55  [ Thread-7:34551 ] - [ INFO ]  请求资源地址GET /easyupgrade HTTP/1.1
+2018-05-21 16:10:15  [ Thread-8:54606 ] - [ INFO ]  第9次链接
+2018-05-21 16:10:15  [ Thread-8:54636 ] - [ INFO ]  请求资源地址GET /easyupgrade/chushihua.css HTTP/1.1
+2018-05-21 16:10:30  [ Thread-9:69861 ] - [ INFO ]  第10次链接
+2018-05-21 16:10:30  [ Thread-10:69866 ] - [ INFO ]  第11次链接
+2018-05-21 16:10:30  [ Thread-12:69871 ] - [ INFO ]  第13次链接
+2018-05-21 16:10:30  [ Thread-11:69868 ] - [ INFO ]  第12次链接
+2018-05-21 16:10:30  [ Thread-13:69888 ] - [ INFO ]  第14次链接
+2018-05-21 16:10:30  [ Thread-14:69888 ] - [ INFO ]  第15次链接
+2018-05-21 16:10:30  [ Thread-9:69897 ] - [ INFO ]  请求资源地址GET /easyupgrade/ HTTP/1.1
+2018-05-21 16:10:34  [ Thread-10:73513 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:10:34  [ Thread-13:73514 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:10:34  [ Thread-14:73514 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:10:34  [ Thread-12:73513 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:10:34  [ Thread-11:73513 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:10:47  [ Thread-15:87280 ] - [ INFO ]  第16次链接
+2018-05-21 16:10:47  [ Thread-16:87288 ] - [ INFO ]  第17次链接
+2018-05-21 16:10:47  [ Thread-17:87293 ] - [ INFO ]  第18次链接
+2018-05-21 16:10:47  [ Thread-18:87297 ] - [ INFO ]  第19次链接
+2018-05-21 16:10:47  [ Thread-15:87318 ] - [ INFO ]  请求资源地址GET /easyupgrade/ HTTP/1.1
+2018-05-21 16:10:49  [ Thread-17:88537 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:10:49  [ Thread-18:88538 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:10:49  [ Thread-16:88538 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:11:08  [ Thread-19:107587 ] - [ INFO ]  第20次链接
+2018-05-21 16:11:08  [ Thread-19:107617 ] - [ INFO ]  请求资源地址GET /easyupgrade/chushihua.css HTTP/1.1
+2018-05-21 16:12:28  [ Thread-20:188054 ] - [ INFO ]  第21次链接
+2018-05-21 16:12:28  [ Thread-21:188058 ] - [ INFO ]  第22次链接
+2018-05-21 16:12:28  [ Thread-22:188060 ] - [ INFO ]  第23次链接
+2018-05-21 16:12:28  [ Thread-24:188062 ] - [ INFO ]  第25次链接
+2018-05-21 16:12:28  [ Thread-23:188061 ] - [ INFO ]  第24次链接
+2018-05-21 16:12:28  [ Thread-20:188087 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:12:38  [ Thread-22:198227 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:12:38  [ Thread-24:198229 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:12:38  [ Thread-21:198229 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:12:38  [ Thread-23:198228 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:13:09  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:13:09  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:13:09  [ main:7 ] - [ INFO ]  外网ip：localhost
+2018-05-21 16:13:09  [ main:8 ] - [ INFO ]  外网端口：80
+2018-05-21 16:13:09  [ main:12 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:13:15  [ Thread-0:6063 ] - [ INFO ]  第1次链接
+2018-05-21 16:13:15  [ Thread-2:6069 ] - [ INFO ]  第3次链接
+2018-05-21 16:13:15  [ Thread-1:6065 ] - [ INFO ]  第2次链接
+2018-05-21 16:13:15  [ Thread-5:6080 ] - [ INFO ]  第6次链接
+2018-05-21 16:13:15  [ Thread-4:6078 ] - [ INFO ]  第5次链接
+2018-05-21 16:13:15  [ Thread-3:6075 ] - [ INFO ]  第4次链接
+2018-05-21 16:13:15  [ Thread-0:6095 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:13:22  [ Thread-1:13750 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:13:22  [ Thread-4:13751 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:13:22  [ Thread-5:13751 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:13:22  [ Thread-3:13750 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:13:22  [ Thread-2:13750 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:13:28  [ Thread-6:19278 ] - [ INFO ]  第7次链接
+2018-05-21 16:13:28  [ Thread-6:19281 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:13:28  [ Thread-6:19369 ] - [ WARN ]  Software caused connection abort: socket write error===i]['username']  +'</a></span><span>'+name+'</span><span>'+data[i]['count']+'</span><span>'+data[i]['placeName']+'</span></li>';
+                }
+                text += '</ul>';
+                $('#top-area .result').html(text);
+            },
+            error: function (e) {
+                console.log(e.responseText);
+            }
+        })
+    }
+
+    function showLine() {
+        LineDay = echarts.init(document.getElementById("line-day"));
+        var xData = JSON.parse(document.getElementById("xData").value);
+        var yokData = JSON.parse(document.getElementById("yokData").value);
+        var yerrData = JSON.parse(document.getElementById("yerrData").value);
+        //纵轴柱状图
+        var option = {
+            title: {
+                text: '每日刷卡统计',
+                subtext: '单位/次'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'shadow'
+                }
+            },
+            legend: {
+   ===1024
+2018-05-21 16:13:28  [ Thread-7:19369 ] - [ INFO ]  第8次链接
+2018-05-21 16:13:28  [ Thread-7:19371 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:13:28  [ Thread-8:19425 ] - [ INFO ]  第9次链接
+2018-05-21 16:13:28  [ Thread-10:19428 ] - [ INFO ]  第11次链接
+2018-05-21 16:13:28  [ Thread-9:19426 ] - [ INFO ]  第10次链接
+2018-05-21 16:13:28  [ Thread-8:19431 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/667ab27d/css/font-awesome.min.css HTTP/1.1
+2018-05-21 16:13:28  [ Thread-10:19430 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/b9fed7c/css/AdminLTE.min.css HTTP/1.1
+2018-05-21 16:13:28  [ Thread-9:19432 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/e224d8ad/css/bootstrap.css HTTP/1.1
+2018-05-21 16:13:28  [ Thread-11:19446 ] - [ INFO ]  第12次链接
+2018-05-21 16:13:28  [ Thread-11:19452 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/b9fed7c/css/skins/_all-skins.min.css HTTP/1.1
+2018-05-21 16:13:28  [ Thread-12:19456 ] - [ INFO ]  第13次链接
+2018-05-21 16:13:28  [ Thread-13:19458 ] - [ INFO ]  第14次链接
+2018-05-21 16:13:28  [ Thread-12:19463 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/fefa96ca/jquery.min.js HTTP/1.1
+2018-05-21 16:13:28  [ Thread-13:19464 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:13:28  [ Thread-12:19468 ] - [ WARN ]  Software caused connection abort: socket write error===,get:function(a){return null!=a?0>a?this[a+this.length]:this[a]:e.call(this)},pushStack:function(a){var b=n.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a){return n.each(this,a)},map:function(a){return this.pushStack(n.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(e.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0>a?b:0);return this.pushStack(c>=0&&b>c?[this[c]]:[])},end:function(){return this.prevObject||this.constructor()},push:g,sort:c.sort,splice:c.splice},n.extend=n.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for("boolean"==typeof g&&(j=g,g=arguments[h]||{},h++),"object"==typeof g||n.isFunction(g)||(g={}),h===i&&(g=this,h--);i>h;h++)if(null!=(a=arguments[h]))for(b in a)c=g[b],d=a[b],g!==d&&(j&&d&&(n.isPlainObject(d)||(e=n.isArray(d)))?(e?(e=!1,f=c&&n.isArray(c)?c:[]):f=c&&n.isPlainObject(c)?===1024
+2018-05-21 16:13:34  [ Thread-14:24939 ] - [ INFO ]  第15次链接
+2018-05-21 16:13:34  [ Thread-14:24941 ] - [ INFO ]  请求资源地址GET /IssWeb/web/images/pol_logo.png HTTP/1.1
+2018-05-21 16:13:34  [ Thread-15:24953 ] - [ INFO ]  第16次链接
+2018-05-21 16:13:34  [ Thread-16:24959 ] - [ INFO ]  第17次链接
+2018-05-21 16:13:34  [ Thread-15:24964 ] - [ INFO ]  请求资源地址GET /IssWeb/web/images/logo.png HTTP/1.1
+2018-05-21 16:13:34  [ Thread-16:24973 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/fefa96ca/jquery.min.js HTTP/1.1
+2018-05-21 16:13:39  [ Thread-17:30482 ] - [ INFO ]  第18次链接
+2018-05-21 16:13:39  [ Thread-18:30483 ] - [ INFO ]  第19次链接
+2018-05-21 16:13:39  [ Thread-17:30484 ] - [ INFO ]  请求资源地址GET /IssWeb/web/css/wuye-login.css HTTP/1.1
+2018-05-21 16:13:39  [ Thread-18:30485 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/228e212c/yii.js HTTP/1.1
+2018-05-21 16:13:39  [ Thread-19:30508 ] - [ INFO ]  第20次链接
+2018-05-21 16:13:39  [ Thread-19:30521 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/b9fed7c/js/app.min.js HTTP/1.1
+2018-05-21 16:13:39  [ Thread-20:30521 ] - [ INFO ]  第21次链接
+2018-05-21 16:13:39  [ Thread-20:30534 ] - [ INFO ]  请求资源地址GET /IssWeb/web/images/home.png HTTP/1.1
+2018-05-21 16:13:45  [ Thread-21:35988 ] - [ INFO ]  第22次链接
+2018-05-21 16:13:45  [ Thread-21:35990 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/e224d8ad/js/bootstrap.js HTTP/1.1
+2018-05-21 16:13:45  [ Thread-22:36045 ] - [ INFO ]  第23次链接
+2018-05-21 16:13:45  [ Thread-22:36046 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/e224d8ad/css/bootstrap.css.map HTTP/1.1
+2018-05-21 16:13:50  [ Thread-23:41551 ] - [ INFO ]  第24次链接
+2018-05-21 16:13:50  [ Thread-23:41556 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/228e212c/yii.activeForm.js HTTP/1.1
+2018-05-21 16:13:56  [ Thread-24:47063 ] - [ INFO ]  第25次链接
+2018-05-21 16:13:56  [ Thread-24:47066 ] - [ INFO ]  请求资源地址GET /IssWeb/web/images/home.gif HTTP/1.1
+2018-05-21 16:23:15  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:23:15  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:23:15  [ main:6 ] - [ INFO ]  外网ip：localhost
+2018-05-21 16:23:15  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:23:15  [ main:11 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:23:23  [ Thread-0:8272 ] - [ INFO ]  第1次链接
+2018-05-21 16:23:23  [ Thread-1:8273 ] - [ INFO ]  第2次链接
+2018-05-21 16:23:23  [ Thread-3:8279 ] - [ INFO ]  第4次链接
+2018-05-21 16:23:23  [ Thread-2:8278 ] - [ INFO ]  第3次链接
+2018-05-21 16:23:24  [ Thread-0:8626 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:23:24  [ Thread-0:8697 ] - [ WARN ]  Software caused connection abort: socket write error===nter">没有报警</p>');
+        }else{
+            var t=eval(m);
+            var smtext='';
+            var text='<ul style="list-style: none">';
+            for(var i=0;i<t.length;i++){
+                var url='';
+                if(t[i].id!=''){
+                    url= 'href="?r=alarm/view&id='+t[i].id+'"';
+                }
+                if(i<5){
+                    smtext+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	smtext+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	smtext+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	smtext+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	smtext+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	smtext+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                   smtext += t[i].log+ t[i].time +'</a></li>';
+
+                }
+
+                text+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	text+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	text+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	text+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	text+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	text+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                    text += '&nbsp;&nbsp;&nbsp;' + t[i].log +'&nbsp;&nbsp;&nbsp;&nbsp;时间：'+ t[i].time +'</a><a data-key="'+t[i]['id']+'" class="DeAlarm pull-right" style="cursor: poi===2048
+2018-05-21 16:23:24  [ Thread-1:8698 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:23:27  [ Thread-3:12424 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:23:27  [ Thread-2:12424 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:24:57  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:24:57  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:24:57  [ main:6 ] - [ INFO ]  外网ip：localhost
+2018-05-21 16:24:57  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:24:57  [ main:11 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:25:06  [ Thread-0:8801 ] - [ INFO ]  第1次链接
+2018-05-21 16:25:06  [ Thread-1:8805 ] - [ INFO ]  第2次链接
+2018-05-21 16:25:06  [ Thread-2:8812 ] - [ INFO ]  第3次链接
+2018-05-21 16:25:06  [ Thread-3:8818 ] - [ INFO ]  第4次链接
+2018-05-21 16:25:06  [ Thread-0:8844 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:25:06  [ Thread-0:9011 ] - [ WARN ]  Software caused connection abort: socket write error===nter">没有报警</p>');
+        }else{
+            var t=eval(m);
+            var smtext='';
+            var text='<ul style="list-style: none">';
+            for(var i=0;i<t.length;i++){
+                var url='';
+                if(t[i].id!=''){
+                    url= 'href="?r=alarm/view&id='+t[i].id+'"';
+                }
+                if(i<5){
+                    smtext+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	smtext+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	smtext+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	smtext+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	smtext+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	smtext+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                   smtext += t[i].log+ t[i].time +'</a></li>';
+
+                }
+
+                text+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	text+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	text+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	text+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	text+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	text+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                    text += '&nbsp;&nbsp;&nbsp;' + t[i].log +'&nbsp;&nbsp;&nbsp;&nbsp;时间：'+ t[i].time +'</a><a data-key="'+t[i]['id']+'" class="DeAlarm pull-right" style="cursor: poi===14
+2018-05-21 16:25:06  [ Thread-1:9012 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:25:07  [ Thread-3:10223 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:25:07  [ Thread-2:10223 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:32:14  [ Thread-4:437093 ] - [ INFO ]  第5次链接
+2018-05-21 16:32:14  [ Thread-4:437106 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:32:14  [ Thread-6:437122 ] - [ INFO ]  第7次链接
+2018-05-21 16:32:14  [ Thread-8:437126 ] - [ INFO ]  第9次链接
+2018-05-21 16:32:14  [ Thread-5:437112 ] - [ INFO ]  第6次链接
+2018-05-21 16:32:14  [ Thread-7:437124 ] - [ INFO ]  第8次链接
+2018-05-21 16:32:14  [ Thread-5:437183 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:32:14  [ Thread-4:437184 ] - [ WARN ]  Software caused connection abort: socket write error===        clearInterval(inter);
+            }
+            if (bg) {
+                oV += t;
+                if (oV >= num) {
+                    oV = num;
+                    isOver = 1;
+                }
+            } else {
+                oV -= t;
+                if (oV <= num) {
+                    oV = num;
+                    isOver = 1;
+                }
+            }
+            $('.t_num').text(oV);
+        }, 20);
+    }
+</script>
+    </section>
+</div>
+
+<footer class="main-footer" style="clear: both;">
+    <div class="pull-right hidden-xs">
+        <b>V1.3.4</b>    </div>
+    <strong>常州华龙通信科技股份有限公司[股票代码-837373]</strong> &copy; 2017-2018 版权所有
+</footer>
+
+
+        <script type="text/javascript">
+    $(function(){
+        timeout=5000;
+        getlist();
+        $(document).on('click','.DeAlarm', DeAlarm);
+
+    })
+    function getlist(){
+        $.ajax({
+            url:"?r=alarm-bak/alarm-list",
+            type:"post",
+            success:function(m){
+                if(typeof(settime)!='undefined'){
+                    clearTimeout(settime);
+                }
+                settime=setTimeout(getlist,timeout);
+                showinfo(m);
+            },
+            error: function (XMLHttpRequest, textStatus) {
+                console.log(textStatus + ':' + XMLHttpRequest.responseText);
+                if(typeof(settime)!='undefined'){
+                    clearTimeout(settime);
+                }
+                settime=setTimeout(getlist,timeout);
+            }
+        });
+    }
+
+    function showinfo(m){
+        var num=$('#modal-list .label-warning');
+        var smlist=$('#modal-list .menu');
+        var title=$('#modal-list .header');
+        var list=$('#myModal .modal-body');
+        num.html('');
+        smlist.html('');
+        title.html('');
+        list.html('');
+        if(m==''){
+            title.html('<p class="text-success text-center">没有报警</p>');
+            list.html('<p class="text-success text-ce===13
+2018-05-21 16:32:18  [ Thread-6:440312 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:32:18  [ Thread-7:440312 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:32:18  [ Thread-8:440312 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:34:56  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:34:56  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:34:56  [ main:6 ] - [ INFO ]  外网ip：localhost
+2018-05-21 16:34:56  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:34:56  [ main:12 ] - [ ERROR ]  代理服务器开启失败!
+2018-05-21 16:34:56  [ main:16 ] - [ ERROR ]  失败原因：Address already in use: JVM_Bind
+2018-05-21 16:35:01  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:35:01  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:35:01  [ main:5 ] - [ INFO ]  外网ip：localhost
+2018-05-21 16:35:01  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:35:01  [ main:10 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:35:44  [ Thread-0:42441 ] - [ INFO ]  第1次链接
+2018-05-21 16:35:44  [ Thread-1:42443 ] - [ INFO ]  第2次链接
+2018-05-21 16:35:44  [ Thread-2:42445 ] - [ INFO ]  第3次链接
+2018-05-21 16:35:44  [ Thread-4:42472 ] - [ INFO ]  第5次链接
+2018-05-21 16:35:44  [ Thread-3:42471 ] - [ INFO ]  第4次链接
+2018-05-21 16:35:44  [ Thread-0:42486 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:35:48  [ Thread-1:46297 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:35:48  [ Thread-4:46299 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:35:48  [ Thread-2:46298 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:35:48  [ Thread-3:46297 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:36:06  [ Thread-5:65106 ] - [ INFO ]  第6次链接
+2018-05-21 16:36:07  [ Thread-9:65120 ] - [ INFO ]  第10次链接
+2018-05-21 16:36:07  [ Thread-6:65113 ] - [ INFO ]  第7次链接
+2018-05-21 16:36:07  [ Thread-8:65120 ] - [ INFO ]  第9次链接
+2018-05-21 16:36:07  [ Thread-7:65114 ] - [ INFO ]  第8次链接
+2018-05-21 16:36:07  [ Thread-10:65124 ] - [ INFO ]  第11次链接
+2018-05-21 16:36:07  [ Thread-5:65895 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:36:07  [ Thread-5:65963 ] - [ WARN ]  Software caused connection abort: socket write error===ed'){
+                    clearTimeout(settime);
+                }
+                settime=setTimeout(getlist,timeout);
+            }
+        });
+    }
+
+    function showinfo(m){
+        var num=$('#modal-list .label-warning');
+        var smlist=$('#modal-list .menu');
+        var title=$('#modal-list .header');
+        var list=$('#myModal .modal-body');
+        num.html('');
+        smlist.html('');
+        title.html('');
+        list.html('');
+        if(m==''){
+            title.html('<p class="text-success text-center">没有报警</p>');
+            list.html('<p class="text-success text-center">没有报警</p>');
+        }else{
+            var t=eval(m);
+            var smtext='';
+            var text='<ul style="list-style: none">';
+            for(var i=0;i<t.length;i++){
+                var url='';
+                if(t[i].id!=''){
+                    url= 'href="?r=alarm/view&id='+t[i].id+'"';
+                }
+                if(i<5){
+                    smtext+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	smtext+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	smtext+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	smtext+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	smtext+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	smtext+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                   smtext += t[i].log+ t[i].time +'</a></li>';
+
+                }
+
+                text+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	text+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level ====14===2000
+2018-05-21 16:36:07  [ Thread-6:65964 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:36:08  [ Thread-8:66298 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:36:08  [ Thread-9:66299 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:36:08  [ Thread-7:66299 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:36:08  [ Thread-10:66299 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:37:19  [ Thread-11:137388 ] - [ INFO ]  第12次链接
+2018-05-21 16:37:19  [ Thread-12:137396 ] - [ INFO ]  第13次链接
+2018-05-21 16:37:19  [ Thread-13:137398 ] - [ INFO ]  第14次链接
+2018-05-21 16:37:19  [ Thread-15:137401 ] - [ INFO ]  第16次链接
+2018-05-21 16:37:19  [ Thread-14:137400 ] - [ INFO ]  第15次链接
+2018-05-21 16:37:19  [ Thread-11:137403 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:37:19  [ Thread-11:137466 ] - [ WARN ]  Software caused connection abort: socket write error===��卡成功",
+                    type: "bar",
+                    smooth: true,
+                    areaStyle: {normal: {}},
+                    itemStyle: {
+                        normal: {
+                            color: "#399eff"
+                        }
+                    },
+                    /*label: {
+                       normal: {
+                           show: true,
+                           position: "top"
+                       }
+                   },*/
+                    data: yokData
+                },
+                {
+                    name: "刷卡失败",
+                    type: "bar",
+                    smooth: true,
+                    areaStyle: {normal: {}},
+                    itemStyle: {
+                        normal: {
+                            color: "#C23531"
+                        }
+                    },
+                    /*label: {
+                        normal: {
+                            show: true,
+                            position: "top"
+                        }
+                    },*/
+                    data: yerrData
+                },
+            ]
+        };
+        LineDay.setOption(option);
+        setTimeout(GetChartData, 5000);
+    }
+
+    function GetChartData() {
+        $.ajax({
+            url: "?r=site/get-chart-data",
+            type: "post",
+            data: {},
+            success: function (m) {
+                var data = JSON.parse(m);
+                LineDay.setOption({
+                    xAxis: {
+                        data: data['xData']
+                    },
+                    series: [
+                        {
+                            name: "刷卡成功",
+                            data: data['yokData']
+                        },
+                        {
+                            name: "刷卡失败",
+                            data: data['yerrData']
+                        }
+                    ]
+                });
+                setTimeout(GetChartData, 5000===12===2000
+2018-05-21 16:37:19  [ Thread-12:137468 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:37:28  [ Thread-14:146313 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:37:28  [ Thread-15:146313 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:37:28  [ Thread-13:146313 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:38:07  [ Thread-16:185532 ] - [ INFO ]  第17次链接
+2018-05-21 16:38:07  [ Thread-16:185540 ] - [ INFO ]  请求资源地址POST /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:39:08  [ Thread-17:246142 ] - [ INFO ]  第18次链接
+2018-05-21 16:39:08  [ Thread-18:246164 ] - [ INFO ]  第19次链接
+2018-05-21 16:39:08  [ Thread-17:246167 ] - [ INFO ]  请求资源地址GET /IssWeb/web/css/site.css HTTP/1.1
+2018-05-21 16:39:08  [ Thread-18:246169 ] - [ INFO ]  请求资源地址GET /IssWeb/web/css/notification.css HTTP/1.1
+2018-05-21 16:39:08  [ Thread-19:246197 ] - [ INFO ]  第20次链接
+2018-05-21 16:39:08  [ Thread-20:246199 ] - [ INFO ]  第21次链接
+2018-05-21 16:39:08  [ Thread-19:246199 ] - [ INFO ]  请求资源地址GET /IssWeb/web/favicon.png HTTP/1.1
+2018-05-21 16:39:08  [ Thread-20:246200 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/b9fed7c/img/logo1.jpg HTTP/1.1
+2018-05-21 16:39:08  [ Thread-21:246207 ] - [ INFO ]  第22次链接
+2018-05-21 16:39:08  [ Thread-21:246213 ] - [ INFO ]  请求资源地址GET /IssWeb/web/assets/667ab27d/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1
+2018-05-21 16:39:13  [ Thread-22:251674 ] - [ INFO ]  第23次链接
+2018-05-21 16:39:13  [ Thread-22:251676 ] - [ INFO ]  请求资源地址GET /IssWeb/web/plugin/slimscroll/jquery.slimscroll.min.js HTTP/1.1
+2018-05-21 16:39:13  [ Thread-23:251677 ] - [ INFO ]  第24次链接
+2018-05-21 16:39:13  [ Thread-23:251680 ] - [ INFO ]  请求资源地址GET /IssWeb/web/js/site.js HTTP/1.1
+2018-05-21 16:39:19  [ Thread-24:257184 ] - [ INFO ]  第25次链接
+2018-05-21 16:39:19  [ Thread-24:257187 ] - [ INFO ]  请求资源地址GET /IssWeb/web/font/font.TTF HTTP/1.1
+2018-05-21 16:39:19  [ Thread-25:257192 ] - [ INFO ]  第26次链接
+2018-05-21 16:39:19  [ Thread-25:257197 ] - [ INFO ]  请求资源地址POST /IssWeb/web/index.php?r=alarm-bak/alarm-list HTTP/1.1
+2018-05-21 16:39:19  [ Thread-26:257260 ] - [ INFO ]  第27次链接
+2018-05-21 16:39:19  [ Thread-26:257262 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:39:19  [ Thread-24:257379 ] - [ WARN ]  Software caused connection abort: socket write error===�%�%�%�%�%�&&	&@&B0 000!0A0�0�0�12 212�3�3�3�3�3�3�3�N �������,�y������������#�'�0�3�I�T�Y�h������������������������|�y�x�w�s�b�[�L�4�1�-������������������3�$���������������������������������������
+�	�����߲߮ߘߖ�(�"�!���������������������޼޹ޮޕ�C����܈܄�w�t�j�Z�R�J�G�E�3�������������������������}ϓχυ�c�Z�X�V�,mEml�l�\[�[�[W[N[4[3[2[/[)[([&W WWWWWV�V                                                                                                                                                                                                                                                                                                     �� @ �    7'&'&76767&.   
+< 4
+	P    g y � 
+   7'&'67'&'&767+
+  C  g )%
+ 
+%%
+      �    7'77''7''7'777'77777777'R+  k #   6 6 6 6  #  6 6 6 6  #  �� y �    %  76767'&''7&'77&767777E  6 4   
+ 1.  7   @8G $7"-  ((@"' 	+1   �� � �   , 4  7767&'&'&'767&'7'7'''&'676677676767&= 	_	dY24
+
+(3	- e 4	  	�0c� �  G 5   	 �7
+@   �� � � $ / 7  77767&'&'&7&767676''67&'&'67&'&�4 
+030(&' A"
+  k 	 	
+ )#'6 . 
+
+R    g 4 �   7'&'&767) g 
+%%
+   �� N � 	  7&'6N (( @�WS$FL  �� I � 	  76'6'7 (( ?)UU$HK   A r � I  7'&'&''&'6767''&7&767677&'&767676'&7676767'&G 		   	 	 
+ 	    		
+z    
+	 	   
+  
+       � �   7777''7'7>  5 5  6 L6 6  6 6   
+�� 9 (   '67&'&'&'&767  (,          6 � L   7'77�� �6    
+�� 6 ===2===2000
+2018-05-21 16:39:32  [ Thread-27:270479 ] - [ INFO ]  第28次链接
+2018-05-21 16:39:32  [ Thread-27:270483 ] - [ INFO ]  请求资源地址POST /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:40:33  [ Thread-28:331123 ] - [ INFO ]  第29次链接
+2018-05-21 16:40:33  [ Thread-28:331127 ] - [ INFO ]  请求资源地址GET /IssWeb/web/font/font.TTF HTTP/1.1
+2018-05-21 16:40:33  [ Thread-29:331134 ] - [ INFO ]  第30次链接
+2018-05-21 16:40:33  [ Thread-29:331138 ] - [ INFO ]  请求资源地址POST /IssWeb/web/index.php?r=alarm-bak/alarm-list HTTP/1.1
+2018-05-21 16:40:33  [ Thread-30:331216 ] - [ INFO ]  第31次链接
+2018-05-21 16:40:33  [ Thread-30:331218 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:40:33  [ Thread-28:331309 ] - [ WARN ]  Software caused connection abort: socket write error===	" <0  j     !    !   
+    	  ||!3	 1 
+g
+ .
+		   �� � � ( b } � � � � �  767676767''7676'&'&7&'&7677''&77'''7776777'&777676767'''&''7&'67767677'''&7677'&77767677''''7'&777677'777'77''77'' � 	 � �
+� ~ 0   2	? 
+ 0      F 5
+  
++      
+	   R  	   6 5 < P � 
+      �      	�                   H )    > 	     %
+
+ 
+		0     'N  Y        �� � � f � � � � �  7'&''6777''777'&777776777676767'7'7676'7676767'7676767'&'67''7''7777'7776'767676'''77''&77'''7776'776'7676'''&7'777'77'p )	5 8
+	E *  
+) 	 $   ( 6^ * I @
+�		|2  !		.    1
+  
+>  3   /=  3  #	K & * D ) O1 1           "        	   
+   	       }  	         
+  F
+            	
+   r  #     �� � �     m � � �  777'777'7''6''&'&777''&77'6777'&''777'67767676767'767677''6767&'&76'&7&'&76'7'''777'677676'''&76'&767'7''7'''77777677676''� , , , D ) ) ) r GJ2 )    & @
+N  
+ 9 d ) 	  -     & {�   ;u	p 3  *7  3    	  Jh    
+	  )                
+ 	 #   X===4028===2000
+2018-05-21 16:41:13  [ Thread-31:371376 ] - [ INFO ]  第32次链接
+2018-05-21 16:41:13  [ Thread-31:371385 ] - [ INFO ]  请求资源地址POST /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:41:30  [ Thread-32:388665 ] - [ INFO ]  第33次链接
+2018-05-21 16:41:30  [ Thread-32:388671 ] - [ INFO ]  请求资源地址POST /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:41:36  [ Thread-33:394908 ] - [ INFO ]  第34次链接
+2018-05-21 16:41:36  [ Thread-33:394910 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:41:42  [ Thread-34:400476 ] - [ INFO ]  第35次链接
+2018-05-21 16:41:42  [ Thread-34:400479 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:41:47  [ Thread-35:406072 ] - [ INFO ]  第36次链接
+2018-05-21 16:41:47  [ Thread-35:406081 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:42:13  [ Thread-31:431967 ] - [ WARN ]  Software caused connection abort: socket write error===
+            outline: 0;
+        }
+    }
+    @media (max-width: 767px){
+        .skin-blue-light .main-header .navbar .dropdown-menu li a{
+            color:#333
+        }
+        .skin-blue-light .main-header .navbar .dropdown-menu li a:hover,.skin-blue-light .main-header .navbar .dropdown-menu > .active>a{
+            color: #fff;
+            text-decoration: none;
+            background-color: #337ab7;
+            outline: 0;
+
+        }
+        #my-menu>ul>li>ul{
+            background-color: #eeeeee;
+        }
+    }
+
+</style>
+
+
+<header class="main-header" id="main-header">
+
+            <nav class="navbar navbar-static-top" role="navigation" style="">
+        <a id="logo" class="logo" href="/IssWeb/web/index.php"><span class="logo-lg" style="min-width:200px;"><img src="favicon.png" alt="">&nbsp;门禁系统</span></a>        <!--<a href="#" class="sidebar-toggle visible-xs" data-toggle="offcanvas" role="button">
+            <span class="sr-only">Toggle navigation</span>
+        </a>-->
+        <div class="collapse navbar-collapse" id="my-collapse" style="float: left;display: none!important;">
+            <ul class="nav navbar-nav" style="margin-left: 10px">
+                            </ul>
+        </div>
+        <div class="navbar-custom-menu" id="my-custom-menu">
+
+            <ul class="nav navbar-nav">
+                <li class="dropdown notifications-menu"  aria-labelledby="dropdownMenu1" id="my-menu" style="display: none">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                    <ul class="dropdown-menu" style="width: auto;color:#333">
+
+                    </ul>
+                </li>
+                <!-- Messages: style can be found in dropdown.less-->
+                <li class="dropdown notifications-menu" id="modal-list">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="fa fa===2===2000
+2018-05-21 16:42:31  [ Thread-32:449248 ] - [ WARN ]  Software caused connection abort: socket write error===
+            outline: 0;
+        }
+    }
+    @media (max-width: 767px){
+        .skin-blue-light .main-header .navbar .dropdown-menu li a{
+            color:#333
+        }
+        .skin-blue-light .main-header .navbar .dropdown-menu li a:hover,.skin-blue-light .main-header .navbar .dropdown-menu > .active>a{
+            color: #fff;
+            text-decoration: none;
+            background-color: #337ab7;
+            outline: 0;
+
+        }
+        #my-menu>ul>li>ul{
+            background-color: #eeeeee;
+        }
+    }
+
+</style>
+
+
+<header class="main-header" id="main-header">
+
+            <nav class="navbar navbar-static-top" role="navigation" style="">
+        <a id="logo" class="logo" href="/IssWeb/web/index.php"><span class="logo-lg" style="min-width:200px;"><img src="favicon.png" alt="">&nbsp;门禁系统</span></a>        <!--<a href="#" class="sidebar-toggle visible-xs" data-toggle="offcanvas" role="button">
+            <span class="sr-only">Toggle navigation</span>
+        </a>-->
+        <div class="collapse navbar-collapse" id="my-collapse" style="float: left;display: none!important;">
+            <ul class="nav navbar-nav" style="margin-left: 10px">
+                            </ul>
+        </div>
+        <div class="navbar-custom-menu" id="my-custom-menu">
+
+            <ul class="nav navbar-nav">
+                <li class="dropdown notifications-menu"  aria-labelledby="dropdownMenu1" id="my-menu" style="display: none">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                    <ul class="dropdown-menu" style="width: auto;color:#333">
+
+                    </ul>
+                </li>
+                <!-- Messages: style can be found in dropdown.less-->
+                <li class="dropdown notifications-menu" id="modal-list">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="fa fa===2===2000
+2018-05-21 16:42:50  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:42:50  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:42:50  [ main:5 ] - [ INFO ]  外网ip：localhost
+2018-05-21 16:42:50  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:42:50  [ main:10 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:42:54  [ Thread-0:4508 ] - [ INFO ]  第1次链接
+2018-05-21 16:42:54  [ Thread-1:4512 ] - [ INFO ]  第2次链接
+2018-05-21 16:42:54  [ Thread-2:4524 ] - [ INFO ]  第3次链接
+2018-05-21 16:42:54  [ Thread-4:4527 ] - [ INFO ]  第5次链接
+2018-05-21 16:42:54  [ Thread-3:4526 ] - [ INFO ]  第4次链接
+2018-05-21 16:42:54  [ Thread-5:4529 ] - [ INFO ]  第6次链接
+2018-05-21 16:42:54  [ Thread-0:4546 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:43:03  [ Thread-1:12895 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:03  [ Thread-5:12896 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:03  [ Thread-4:12895 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:03  [ Thread-2:12895 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:03  [ Thread-3:12895 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:25  [ Thread-6:35358 ] - [ INFO ]  第7次链接
+2018-05-21 16:43:25  [ Thread-7:35361 ] - [ INFO ]  第8次链接
+2018-05-21 16:43:25  [ Thread-8:35364 ] - [ INFO ]  第9次链接
+2018-05-21 16:43:25  [ Thread-10:35366 ] - [ INFO ]  第11次链接
+2018-05-21 16:43:25  [ Thread-11:35366 ] - [ INFO ]  第12次链接
+2018-05-21 16:43:25  [ Thread-9:35365 ] - [ INFO ]  第10次链接
+2018-05-21 16:43:25  [ Thread-6:35593 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:43:26  [ Thread-7:35663 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:43:26  [ Thread-6:35663 ] - [ WARN ]  Software caused connection abort: socket write error===nter">没有报警</p>');
+        }else{
+            var t=eval(m);
+            var smtext='';
+            var text='<ul style="list-style: none">';
+            for(var i=0;i<t.length;i++){
+                var url='';
+                if(t[i].id!=''){
+                    url= 'href="?r=alarm/view&id='+t[i].id+'"';
+                }
+                if(i<5){
+                    smtext+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	smtext+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	smtext+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	smtext+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	smtext+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	smtext+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                   smtext += t[i].log+ t[i].time +'</a></li>';
+
+                }
+
+                text+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	text+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	text+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	text+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	text+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	text+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                    text += '&nbsp;&nbsp;&nbsp;' + t[i].log +'&nbsp;&nbsp;&nbsp;&nbsp;时间：'+ t[i].time +'</a><a data-key="'+t[i]['id']+'" class="DeAlarm pull-right" style="cursor: poi===14===2048
+2018-05-21 16:43:33  [ Thread-10:42897 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:33  [ Thread-11:42897 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:33  [ Thread-9:42897 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:43:33  [ Thread-8:42897 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:44:51  [ Thread-12:121196 ] - [ INFO ]  第13次链接
+2018-05-21 16:44:51  [ Thread-14:121212 ] - [ INFO ]  第15次链接
+2018-05-21 16:44:51  [ Thread-15:121212 ] - [ INFO ]  第16次链接
+2018-05-21 16:44:51  [ Thread-13:121196 ] - [ INFO ]  第14次链接
+2018-05-21 16:44:51  [ Thread-12:121240 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:44:51  [ Thread-16:121237 ] - [ INFO ]  第17次链接
+2018-05-21 16:44:53  [ Thread-14:122910 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:44:53  [ Thread-15:122911 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:44:53  [ Thread-16:122911 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:44:53  [ Thread-13:122911 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:45:11  [ Thread-17:141573 ] - [ INFO ]  第18次链接
+2018-05-21 16:45:11  [ Thread-18:141588 ] - [ INFO ]  第19次链接
+2018-05-21 16:45:11  [ Thread-17:141609 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:45:11  [ Thread-21:141605 ] - [ INFO ]  第22次链接
+2018-05-21 16:45:11  [ Thread-20:141604 ] - [ INFO ]  第21次链接
+2018-05-21 16:45:11  [ Thread-19:141588 ] - [ INFO ]  第20次链接
+2018-05-21 16:45:12  [ Thread-17:141694 ] - [ WARN ]  Software caused connection abort: socket write error===nter">没有报警</p>');
+        }else{
+            var t=eval(m);
+            var smtext='';
+            var text='<ul style="list-style: none">';
+            for(var i=0;i<t.length;i++){
+                var url='';
+                if(t[i].id!=''){
+                    url= 'href="?r=alarm/view&id='+t[i].id+'"';
+                }
+                if(i<5){
+                    smtext+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	smtext+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	smtext+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	smtext+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	smtext+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	smtext+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                   smtext += t[i].log+ t[i].time +'</a></li>';
+
+                }
+
+                text+='<li><a '+url+'>';
+                    if(t[i].level == 0){
+                    	text+='<font color=\'red\'>[警]</font>'
+                    }
+                    else if(t[i].level == 1){
+                    	text+='<font color=\'orange\'>[警]</font>'
+                    }
+                    else if(t[i].level == 2){
+                    	text+='<font color=\'#CDCD00\'>[警]</font>'
+                    }
+                    else if(t[i].level == 3){
+                    	text+='<font color=\'blue\'>[警]</font>'
+                   	}
+                    else{
+                    	text+='<font color=\'green\'>[警]</font>'
+                   	}
+
+                    text += '&nbsp;&nbsp;&nbsp;' + t[i].log +'&nbsp;&nbsp;&nbsp;&nbsp;时间：'+ t[i].time +'</a><a data-key="'+t[i]['id']+'" class="DeAlarm pull-right" style="cursor: poi===14===2048
+2018-05-21 16:45:12  [ Thread-18:141695 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php?r=user/login HTTP/1.1
+2018-05-21 16:45:13  [ Thread-19:142912 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:45:13  [ Thread-21:142912 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:45:13  [ Thread-20:142912 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:46:35  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:46:35  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:46:35  [ main:6 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 16:46:35  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:46:35  [ main:10 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:46:40  [ Thread-0:4373 ] - [ INFO ]  第1次链接
+2018-05-21 16:46:40  [ Thread-1:4395 ] - [ INFO ]  第2次链接
+2018-05-21 16:46:40  [ Thread-2:4408 ] - [ INFO ]  第3次链接
+2018-05-21 16:46:40  [ Thread-4:4412 ] - [ INFO ]  第5次链接
+2018-05-21 16:46:40  [ Thread-3:4411 ] - [ INFO ]  第4次链接
+2018-05-21 16:46:40  [ Thread-0:4434 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:46:48  [ Thread-1:12337 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:46:48  [ Thread-4:12337 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:46:48  [ Thread-3:12337 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:46:48  [ Thread-2:12337 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:47:01  [ Thread-5:25387 ] - [ INFO ]  第6次链接
+2018-05-21 16:47:01  [ Thread-5:25449 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:47:25  [ Thread-6:49280 ] - [ INFO ]  第7次链接
+2018-05-21 16:47:25  [ Thread-7:49295 ] - [ INFO ]  第8次链接
+2018-05-21 16:47:25  [ Thread-8:49315 ] - [ INFO ]  第9次链接
+2018-05-21 16:47:25  [ Thread-6:49331 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:47:28  [ Thread-8:52344 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:47:28  [ Thread-7:52344 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:10  [ Thread-9:94301 ] - [ INFO ]  第10次链接
+2018-05-21 16:48:10  [ Thread-10:94326 ] - [ INFO ]  第11次链接
+2018-05-21 16:48:10  [ Thread-11:94327 ] - [ INFO ]  第12次链接
+2018-05-21 16:48:10  [ Thread-12:94331 ] - [ INFO ]  第13次链接
+2018-05-21 16:48:10  [ Thread-13:94336 ] - [ INFO ]  第14次链接
+2018-05-21 16:48:10  [ Thread-9:94364 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:48:14  [ Thread-14:98747 ] - [ INFO ]  第15次链接
+2018-05-21 16:48:19  [ Thread-10:103442 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:19  [ Thread-13:103443 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:19  [ Thread-12:103443 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:19  [ Thread-14:103443 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:19  [ Thread-11:103443 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:29  [ Thread-15:113282 ] - [ INFO ]  第16次链接
+2018-05-21 16:48:29  [ Thread-16:113290 ] - [ INFO ]  第17次链接
+2018-05-21 16:48:29  [ Thread-17:113291 ] - [ INFO ]  第18次链接
+2018-05-21 16:48:29  [ Thread-19:113292 ] - [ INFO ]  第20次链接
+2018-05-21 16:48:29  [ Thread-18:113292 ] - [ INFO ]  第19次链接
+2018-05-21 16:48:29  [ Thread-15:113314 ] - [ INFO ]  请求资源地址GET /docs/jndi-datasource-examples-howto.html HTTP/1.1
+2018-05-21 16:48:29  [ Thread-18:113441 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:29  [ Thread-19:113442 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:29  [ Thread-17:113441 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:48:29  [ Thread-16:113441 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:53:22  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:53:22  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:53:22  [ main:6 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 16:53:22  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:53:22  [ main:11 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:53:27  [ Thread-0:4957 ] - [ INFO ]  第1次链接
+2018-05-21 16:53:27  [ Thread-1:4969 ] - [ INFO ]  第2次链接
+2018-05-21 16:53:27  [ Thread-2:4975 ] - [ INFO ]  第3次链接
+2018-05-21 16:53:27  [ Thread-0:5288 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:53:28  [ Thread-1:5830 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:53:28  [ Thread-2:5830 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:53:31  [ Thread-3:9190 ] - [ INFO ]  第4次链接
+2018-05-21 16:53:31  [ Thread-3:9221 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:53:37  [ Thread-4:14445 ] - [ INFO ]  第5次链接
+2018-05-21 16:53:37  [ Thread-4:14477 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:53:37  [ Thread-5:14861 ] - [ INFO ]  第6次链接
+2018-05-21 16:53:37  [ Thread-5:14900 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:53:42  [ Thread-6:20182 ] - [ INFO ]  第7次链接
+2018-05-21 16:53:42  [ Thread-7:20199 ] - [ INFO ]  第8次链接
+2018-05-21 16:53:42  [ Thread-9:20207 ] - [ INFO ]  第10次链接
+2018-05-21 16:53:42  [ Thread-8:20202 ] - [ INFO ]  第9次链接
+2018-05-21 16:53:42  [ Thread-6:20221 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:53:49  [ Thread-7:26923 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:53:49  [ Thread-8:26924 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:53:49  [ Thread-9:26924 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:55:09  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:55:09  [ main:4 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:55:09  [ main:5 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 16:55:09  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:55:09  [ main:10 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:55:18  [ Thread-0:8765 ] - [ INFO ]  第1次链接
+2018-05-21 16:55:18  [ Thread-0:8805 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:55:23  [ Thread-1:13909 ] - [ INFO ]  第2次链接
+2018-05-21 16:55:23  [ Thread-2:13918 ] - [ INFO ]  第3次链接
+2018-05-21 16:55:23  [ Thread-3:13919 ] - [ INFO ]  第4次链接
+2018-05-21 16:55:23  [ Thread-1:13944 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:55:25  [ Thread-4:16029 ] - [ INFO ]  第5次链接
+2018-05-21 16:55:25  [ Thread-2:16042 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:55:26  [ Thread-3:16965 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:55:29  [ Thread-4:19762 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:56:16  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:56:16  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:56:16  [ main:6 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 16:56:16  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:56:16  [ main:11 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:56:22  [ Thread-0:5495 ] - [ INFO ]  第1次链接
+2018-05-21 16:56:22  [ Thread-0:5538 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:56:25  [ Thread-1:8621 ] - [ INFO ]  第2次链接
+2018-05-21 16:56:25  [ Thread-1:8663 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:56:26  [ Thread-2:10008 ] - [ INFO ]  第3次链接
+2018-05-21 16:56:26  [ Thread-2:10049 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:57:03  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:57:03  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:57:03  [ main:6 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 16:57:03  [ main:7 ] - [ INFO ]  外网端口：80
+2018-05-21 16:57:03  [ main:11 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:57:07  [ Thread-0:4061 ] - [ INFO ]  第1次链接
+2018-05-21 16:57:07  [ Thread-0:4126 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:57:10  [ Thread-1:7260 ] - [ INFO ]  第2次链接
+2018-05-21 16:57:10  [ Thread-2:7268 ] - [ INFO ]  第3次链接
+2018-05-21 16:57:10  [ Thread-3:7272 ] - [ INFO ]  第4次链接
+2018-05-21 16:57:10  [ Thread-4:7282 ] - [ INFO ]  第5次链接
+2018-05-21 16:57:11  [ Thread-5:8430 ] - [ INFO ]  第6次链接
+2018-05-21 16:57:11  [ Thread-6:8433 ] - [ INFO ]  第7次链接
+2018-05-21 16:57:12  [ Thread-1:9338 ] - [ INFO ]  请求资源地址GET /docs/jasper-howto.html HTTP/1.1
+2018-05-21 16:57:19  [ Thread-2:16099 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:57:19  [ Thread-4:16100 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:57:19  [ Thread-3:16100 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:57:19  [ Thread-6:16100 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:57:19  [ Thread-5:16100 ] - [ INFO ]  请求资源地址null
+2018-05-21 16:57:33  [ Thread-7:30156 ] - [ INFO ]  第8次链接
+2018-05-21 16:57:33  [ Thread-7:30188 ] - [ INFO ]  请求资源地址GET /docs/means-descriptors-howto.html HTTP/1.1
+2018-05-21 16:58:10  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 16:58:10  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 16:58:10  [ main:5 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 16:58:10  [ main:6 ] - [ INFO ]  外网端口：80
+2018-05-21 16:58:10  [ main:11 ] - [ INFO ]  代理服务器开启成功!
+2018-05-21 16:58:16  [ Thread-0:5948 ] - [ INFO ]  第1次链接
+2018-05-21 16:58:16  [ Thread-0:5989 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:58:16  [ Thread-0:5992 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:58:29  [ Thread-1:18964 ] - [ INFO ]  第2次链接
+2018-05-21 16:58:29  [ Thread-1:19000 ] - [ INFO ]  请求资源地址GET /IssWeb/web/index.php HTTP/1.1
+2018-05-21 16:58:29  [ Thread-1:19001 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:58:43  [ Thread-2:33251 ] - [ INFO ]  第3次链接
+2018-05-21 16:58:43  [ Thread-3:33257 ] - [ INFO ]  第4次链接
+2018-05-21 16:58:43  [ Thread-2:33291 ] - [ INFO ]  请求资源地址GET / HTTP/1.1
+2018-05-21 16:58:43  [ Thread-2:33292 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:58:44  [ Thread-3:33504 ] - [ INFO ]  请求资源地址GET /tomcat.png HTTP/1.1
+2018-05-21 16:58:44  [ Thread-3:33511 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:59:04  [ Thread-4:53555 ] - [ INFO ]  第5次链接
+2018-05-21 16:59:04  [ Thread-4:53586 ] - [ INFO ]  请求资源地址GET /tomcat.css HTTP/1.1
+2018-05-21 16:59:04  [ Thread-4:53587 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:59:04  [ Thread-5:53634 ] - [ INFO ]  第6次链接
+2018-05-21 16:59:04  [ Thread-6:53637 ] - [ INFO ]  第7次链接
+2018-05-21 16:59:04  [ Thread-7:53639 ] - [ INFO ]  第8次链接
+2018-05-21 16:59:04  [ Thread-8:53646 ] - [ INFO ]  第9次链接
+2018-05-21 16:59:04  [ Thread-5:53667 ] - [ INFO ]  请求资源地址GET /bg-upper.png HTTP/1.1
+2018-05-21 16:59:04  [ Thread-5:53669 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:59:04  [ Thread-7:53672 ] - [ INFO ]  请求资源地址GET /asf-logo-wide.svg HTTP/1.1
+2018-05-21 16:59:04  [ Thread-7:53676 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:59:04  [ Thread-6:53672 ] - [ INFO ]  请求资源地址GET /bg-button.png HTTP/1.1
+2018-05-21 16:59:04  [ Thread-8:53678 ] - [ INFO ]  请求资源地址GET /bg-nav.png HTTP/1.1
+2018-05-21 16:59:04  [ Thread-6:53678 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:59:04  [ Thread-8:53679 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 16:59:24  [ Thread-9:73730 ] - [ INFO ]  第10次链接
+2018-05-21 16:59:24  [ Thread-9:73761 ] - [ INFO ]  请求资源地址GET /bg-middle.png HTTP/1.1
+2018-05-21 16:59:24  [ Thread-9:73763 ] - [ INFO ]  Host: 101.201.237.68:80
+
+2018-05-21 17:00:15  [ main:0 ] - [ INFO ]  代理端口：10089
+2018-05-21 17:00:15  [ main:5 ] - [ INFO ]  代理地址：localhost
+2018-05-21 17:00:15  [ main:6 ] - [ INFO ]  外网ip：101.201.237.68
+2018-05-21 17:00:15  [ main:7 ] - [ INFO ]  外网端口：80
+2018-05-21 17:00:15  [ main:11 ] - [ INFO ]  代理服务器开启成功!
