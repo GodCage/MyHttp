@@ -1,0 +1,37 @@
+2018-05-23 11:14:35  [ Thread-7:30239 ] - [ ERROR ]  Software caused connection abort: socket write error===
+</script>    </div>
+</div>
+<footer class="footer" style="display: none">
+    <div class="container">
+        <p class="pull-left">&copy; My Company 2018</p>
+
+        <p class="pull-right">技术支持 <a href="http://www.yiiframework.com/" rel="external">Yii 框架</a></p>
+    </div>
+</footer>
+<script src="js/localStorage.js"></script>
+<script src="/wifi/web/assets/98e79d03/yii.js"></script>
+<script src="/wifi/web/js/jquery.slimscroll.min.js"></script>
+<script src="/wifi/web/plugin/underline-slide-menu/js/slide-menu.js"></script>
+<script src="/wifi/web/js/site.js"></script>
+<script src="/wifi/web/assets/5bc7add7/js/bootstrap.js"></script></body>
+</html>
+
+
+0
+
+===10===671
+2018-05-23 11:20:28  [ Thread-4:17963 ] - [ ERROR ]  len == -1 off == 0 buffer length == 2048======3===-1
+2018-05-23 11:20:33  [ Thread-5:22982 ] - [ ERROR ]  len == -1 off == 0 buffer length == 2048======5===-1
+2018-05-23 11:22:03  [ Thread-6:113032 ] - [ ERROR ]  len == -1 off == 0 buffer length == 2048======3===-1
+2018-05-23 11:24:52  [ Thread-16:282038 ] - [ ERROR ]  len == -1 off == 0 buffer length == 2048======3===-1
+2018-05-23 11:27:03  [ Thread-7:413148 ] - [ ERROR ]  Software caused connection abort: socket write error======1===2048
+2018-05-23 11:27:03  [ Thread-8:413155 ] - [ ERROR ]  Software caused connection abort: socket write error======1===2048
+2018-05-23 11:27:34  [ Thread-9:443622 ] - [ ERROR ]  len == -1 off == 0 buffer length == 2048======1===-1
+2018-05-23 11:27:34  [ Thread-10:443622 ] - [ ERROR ]  len == -1 off == 0 buffer length == 2048======1===-1
+2018-05-23 11:27:34  [ Thread-11:444150 ] - [ ERROR ]  len == -1 off == 0 buffer length == 2048======1===-1
+2018-05-23 11:31:19  [ Thread-0:9085 ] - [ ERROR ]  null======3===-1
+2018-05-23 12:43:24  [ main:12 ] - [ ERROR ]  代理服务器开启失败!
+2018-05-23 12:43:24  [ main:14 ] - [ ERROR ]  失败原因：Address already in use: JVM_Bind
+2018-05-23 12:46:32  [ Thread-0:7406 ] - [ ERROR ]  null======2===-1
+2018-05-23 12:46:37  [ Thread-1:12420 ] - [ ERROR ]  null======2===-1
+2018-05-23 12:46:42  [ Thread-2:17429 ] - [ ERROR ]  null======2===-1
